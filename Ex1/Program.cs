@@ -48,10 +48,6 @@ class Program
         return resultArray;
     }
 
-    static bool IsStringLengthLessOrEqualThree(string str)
-    {
-        return str.Length <= 3;
-    }
-}
+
 
 
