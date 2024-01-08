@@ -23,4 +23,4 @@ IsStringLengthLessOrEqualThree: Метод для проверки длины с
 `Hello,2,world,:-)`
 
 Результат:
-`2, :-)`
+`[2, :-)]`
