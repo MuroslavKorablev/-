@@ -20,7 +20,7 @@ IsStringLengthLessOrEqualThree: Метод для проверки длины с
 
 Примеры:
 
-Hello,2,world,:-)
+`Hello,2,world,:-)`
 
 Результат:
-2, :-)
+`2, :-)`
