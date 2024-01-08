@@ -1,12 +1,4 @@
-﻿using System;
-
-class Program
-{
-    static void Main()
-    {
-        Console.WriteLine("Введите строки через запятую:");
-        string input = Console.ReadLine()!;
-
+﻿
         // Разбиваем введенные строки на массив строк
         string[] inputArray = input.Split(',');
 
